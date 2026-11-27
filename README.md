@@ -11,7 +11,7 @@ A calm, local-first notes app for macOS. Every note is a plain Markdown file in 
 
 ## Download
 
-Get **Papeless-1.0.0.dmg** from the [latest release](https://github.com/Dufiboy/papeless-releases/releases/latest).
+Get the **Papeless-1.0.x.dmg** file from the [latest release](https://github.com/Dufiboy/papeless-releases/releases/latest).
 
 Requires a Mac with Apple silicon (M1 or later).
 
